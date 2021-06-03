@@ -1,1 +1,2 @@
-# Project-24--Franky-a-Geologist-D
+# Geologist
+Geologist Project
